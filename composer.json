@@ -1,0 +1,20 @@
+{
+    "name": "beo/lab",
+    "description": "lab6",
+    "require": {
+        "twig/twig": "^1.29"
+    },
+    "authors": [
+        {
+            "name": "Liza Belokon",
+            "email": "liza.belokon@mail.ru"
+        }
+    ],
+    "autoload":
+	{
+	"psr-4":{
+		"beoLab6\\":"beocore/"	
+		}
+	
+	}
+}
